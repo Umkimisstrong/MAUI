@@ -1,0 +1,37 @@
+﻿@page "/"
+
+<h1>오늘 할 일</h1>
+<p role="status">할 일 : <span id="taskCount">2</span> 개</p>
+
+<button class="btn btn-primary" onclick="checkedTodoAttribute()">임무완수</button>
+
+<div>
+    <div>
+        <input  type="checkbox" id="chk_01" name="chkBoxTodo"/>
+        <label id="01">하체운동</label>
+    </div>
+    <div>
+        <input type="checkbox" id="chk_02" name="chkBoxTodo" />
+        <label id="02">식단</label>
+    </div>
+</div>
+
+<script type="text/javascript">
+
+    function checkedTodoAttribute() 
+    {
+        var chkElements = document.getElementsByName("chkBoxTodo");   
+        for (var i = 0; i < chkElements.length; i++) 
+        {
+            if (chkElements[i].checked) 
+            {
+                document.getElementById(chkElements[i].id.replace('chk_', '')).style.textDecoration = "line-through";
+            }
+            
+        }
+        
+    }
+
+</script>
+
+

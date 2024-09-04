@@ -1,0 +1,109 @@
+﻿@page "/weather"
+
+
+
+<h1>기록</h1>
+
+<p>할일을 완수한 기록입니다.</p>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>일</th>
+                <th>월</th>
+                <th>화</th>
+                <th>수</th>
+                <th>목</th>
+                <th>금</th>
+                <th>토</th>
+            </tr>
+        </thead>
+        <tbody>
+        @{
+            int startNum = 1;
+            bool isDraw = false;
+        }
+        @for (int i = 0; i < weekRowCount; i++)
+        {
+            <tr>
+                @for (int j = 0; j < 7; j++)
+                {
+                    if (j == startDifference || isDraw && startNum <= lastDay)
+                    {
+                        isDraw = true;
+                        <th> @startNum </th>
+                        startNum++;
+                    }
+
+                }
+
+                @if (i == weekRowCount - 1)
+                {
+                    @if (startNum <= lastDay)
+                    {
+                        weekRowCount += 1;
+                    }
+                }
+            </tr>
+        }
+        
+        </tbody>
+    </table>
+
+
+@code {
+    private int weekRowCount = 0;
+    private int Year = 0;
+    private int Month = 0;
+    private int Day = 0;
+    private int lastDay = 0;
+    private int startDifference = 7;
+
+    public Weather()
+    {
+        SetDate("2024-09-04");
+    }
+
+    /* Class Weather */
+    private void SetDate(string dateYmd)
+    {
+        DateTime date = DateTime.Parse(dateYmd);
+
+        // 02. 연, 월, 일 정보를 담는다.
+        this.Year = date.Year;
+        this.Month = date.Month;
+        this.Day = date.Day;
+
+        // 03. 마지막날 정보를 담는다.
+        this.lastDay = DateTime.DaysInMonth(Year, Month);
+
+        // 04. 첫번째 날의 요일정보를 담는다.
+        string FirstDayOfWeek = date.AddDays((1 - Day)).DayOfWeek.ToString();
+
+        // 05. 시작일 기본값(달력을 그릴때 시작 요일이 목요일이면, < [ ] [ ] [ ] [ ] 목 금 토 > 로 그리기 위함
+        this.startDifference = 7;
+
+        switch (FirstDayOfWeek)
+        {
+            case "Sunday":      this.startDifference -= 7; break;
+            case "Monday":      this.startDifference -= 6; break;
+            case "Tuesday":     this.startDifference -= 5; break;
+            case "Wednesday":   this.startDifference -= 4; break;
+            case "Thursday":    this.startDifference -= 3; break;
+            case "Friday":      this.startDifference -= 2; break;
+            case "Saturday":    this.startDifference -= 1; break;
+        }
+
+        // 06. 일주일 단위 행 수
+        this.weekRowCount = this.startDifference == 0 && lastDay == 28 ? 4 : 5;
+    }
+
+
+    
+    
+    
+
+
+    
+
+}

@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\Tomorrow.styles.css",
+      "PackagePath": "staticwebassets\\Tomorrow.styles.css"
+    },
+    {
+      "Id": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.Tomorrow.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.build.Tomorrow.props",
+      "PackagePath": "build\\Tomorrow.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.buildMultiTargeting.Tomorrow.props",
+      "PackagePath": "buildMultiTargeting\\Tomorrow.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.buildTransitive.Tomorrow.props",
+      "PackagePath": "buildTransitive\\Tomorrow.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

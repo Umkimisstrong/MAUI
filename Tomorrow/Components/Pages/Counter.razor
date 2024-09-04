@@ -1,0 +1,28 @@
+﻿@page "/counter"
+
+@code {
+    private int currentCount = 0;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+
+}
+
+<h1>내일 할 일</h1>
+
+
+<p role="status">할 일 : <span id="taskCount">2</span> 개</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">추가</button>
+<ul>
+    <li>
+        출근하기
+    </li>
+    <li>
+        식단하기
+    </li>
+</ul>
+
+
