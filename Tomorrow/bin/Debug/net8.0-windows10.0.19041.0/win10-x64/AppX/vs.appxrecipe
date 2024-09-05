@@ -29,7 +29,7 @@
     <AppXManifest Include="D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-04T01:51:08.463</Modified>
+      <Modified>2024-09-05T07:19:44.876</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Tomorrow.dll">
       <PackagePath>Tomorrow.dll</PackagePath>
-      <Modified>2024-09-04T01:50:52.248</Modified>
+      <Modified>2024-09-05T07:19:43.830</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Tomorrow.exe</PackagePath>
-      <Modified>2024-09-04T01:50:52.255</Modified>
+      <Modified>2024-09-05T07:19:43.879</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
