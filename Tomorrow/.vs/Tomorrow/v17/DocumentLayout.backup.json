@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|d:\\.net_maui\\maui\\tomorrow\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|solutionrelative:components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|d:\\.net_maui\\maui\\tomorrow\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|d:\\.net_maui\\maui\\tomorrow\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|d:\\.net_maui\\maui\\tomorrow\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|d:\\.net_maui\\maui\\tomorrow\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|d:\\.net_maui\\maui\\tomorrow\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|d:\\.net_maui\\maui\\tomorrow\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|d:\\.net_maui\\maui\\tomorrow\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|d:\\.net_maui\\maui\\tomorrow\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|d:\\.net_maui\\maui\\tomorrow\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,6 +41,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|d:\\.net_maui\\maui\\tomorrow\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|d:\\.net_maui\\maui\\tomorrow\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|solutionrelative:components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,6 +63,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "web.config",
+              "DocumentMoniker": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\web.config",
+              "RelativeDocumentMoniker": "web.config",
+              "ToolTip": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\web.config",
+              "RelativeToolTip": "web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-09T23:36:32.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-09T23:24:34.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T23:23:50.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T23:23:35.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-09T23:23:14.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-09T23:23:07.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T23:23:05.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_Imports.razor",
               "DocumentMoniker": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "Components\\_Imports.razor",
@@ -47,33 +166,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Home.razor",
               "DocumentMoniker": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
               "ToolTip": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-05T07:00:06.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Weather.razor",
               "DocumentMoniker": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\Components\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Weather.razor",
               "ToolTip": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\Components\\Pages\\Weather.razor",
               "RelativeToolTip": "Components\\Pages\\Weather.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T07:00:05.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T07:00:05.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Counter.razor",
               "DocumentMoniker": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
@@ -81,8 +199,7 @@
               "RelativeToolTip": "Components\\Pages\\Counter.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T07:00:03.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T07:00:03.928Z"
             }
           ]
         }
