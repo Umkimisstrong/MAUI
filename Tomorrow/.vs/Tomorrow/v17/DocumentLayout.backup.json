@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET_MAUI\\MAUI\\Tomorrow\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\Tomorrow.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\Tomorrow.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|d:\\.net_maui\\maui\\tomorrow\\tomorrowapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|solutionrelative:tomorrowapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tomorrow.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\Tomorrow.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\Tomorrow.AssemblyInfo.cs",
+              "ToolTip": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\Tomorrow.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\Tomorrow.AssemblyInfo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIAwwBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:58:42.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\TomorrowAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TomorrowAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\TomorrowAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TomorrowAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:58:19.053Z",
+              "EditorCaption": ""
             }
           ]
         }

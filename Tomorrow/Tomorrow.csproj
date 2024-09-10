@@ -66,6 +66,15 @@
     </ItemGroup>
 
     <ItemGroup>
+      <AndroidResource Remove="TomorrowAPI\**" />
+      <Compile Remove="TomorrowAPI\**" />
+      <Content Remove="TomorrowAPI\**" />
+      <EmbeddedResource Remove="TomorrowAPI\**" />
+      <MauiXaml Remove="TomorrowAPI\**" />
+      <None Remove="TomorrowAPI\**" />
+    </ItemGroup>
+
+    <ItemGroup>
         <PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
         <PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
         <PackageReference Include="Microsoft.AspNetCore.Components.WebView.Maui" Version="$(MauiVersion)" />
