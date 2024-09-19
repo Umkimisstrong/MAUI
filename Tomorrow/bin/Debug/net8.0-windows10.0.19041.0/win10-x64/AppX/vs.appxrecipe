@@ -29,25 +29,25 @@
     <AppXManifest Include="D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-09T23:06:11.456</Modified>
+      <Modified>2024-09-19T04:31:18.009</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-09-04T01:18:54.147</Modified>
+      <Modified>2024-09-19T04:31:17.777</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Tomorrow.runtimeconfig.json">
       <PackagePath>Tomorrow.runtimeconfig.json</PackagePath>
-      <Modified>2024-09-04T01:18:53.787</Modified>
+      <Modified>2024-09-19T04:31:17.489</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Tomorrow.dll">
       <PackagePath>Tomorrow.dll</PackagePath>
-      <Modified>2024-09-09T23:06:10.412</Modified>
+      <Modified>2024-09-19T04:31:16.289</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Tomorrow.exe</PackagePath>
-      <Modified>2024-09-09T23:06:10.461</Modified>
+      <Modified>2024-09-19T04:31:16.333</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -75,23 +75,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-09-03T23:26:41.540</Modified>
+      <Modified>2024-09-19T01:49:12.309</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-09-03T23:26:41.555</Modified>
+      <Modified>2024-09-19T01:49:12.337</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-09-03T23:26:41.573</Modified>
+      <Modified>2024-09-19T01:49:12.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-09-03T23:26:41.601</Modified>
+      <Modified>2024-09-19T01:49:12.412</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-09-03T23:26:41.686</Modified>
+      <Modified>2024-09-19T01:49:12.512</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -99,207 +99,207 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-09-03T23:26:46.248</Modified>
+      <Modified>2024-09-19T01:51:34.703</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.179</Modified>
+      <Modified>2024-09-19T01:51:34.560</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.177</Modified>
+      <Modified>2024-09-19T01:51:34.556</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.175</Modified>
+      <Modified>2024-09-19T01:51:34.552</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.173</Modified>
+      <Modified>2024-09-19T01:51:34.550</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.172</Modified>
+      <Modified>2024-09-19T01:51:34.546</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.220</Modified>
+      <Modified>2024-09-19T01:51:34.644</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.219</Modified>
+      <Modified>2024-09-19T01:51:34.640</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.213</Modified>
+      <Modified>2024-09-19T01:51:34.629</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.216</Modified>
+      <Modified>2024-09-19T01:51:34.636</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.215</Modified>
+      <Modified>2024-09-19T01:51:34.633</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.228</Modified>
+      <Modified>2024-09-19T01:51:34.665</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.227</Modified>
+      <Modified>2024-09-19T01:51:34.661</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.222</Modified>
+      <Modified>2024-09-19T01:51:34.647</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.225</Modified>
+      <Modified>2024-09-19T01:51:34.656</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.224</Modified>
+      <Modified>2024-09-19T01:51:34.650</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.246</Modified>
+      <Modified>2024-09-19T01:51:34.699</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.244</Modified>
+      <Modified>2024-09-19T01:51:34.695</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.242</Modified>
+      <Modified>2024-09-19T01:51:34.694</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.240</Modified>
+      <Modified>2024-09-19T01:51:34.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.238</Modified>
+      <Modified>2024-09-19T01:51:34.687</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.237</Modified>
+      <Modified>2024-09-19T01:51:34.684</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.234</Modified>
+      <Modified>2024-09-19T01:51:34.679</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.230</Modified>
+      <Modified>2024-09-19T01:51:34.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.233</Modified>
+      <Modified>2024-09-19T01:51:34.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.231</Modified>
+      <Modified>2024-09-19T01:51:34.672</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.194</Modified>
+      <Modified>2024-09-19T01:51:34.595</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.193</Modified>
+      <Modified>2024-09-19T01:51:34.592</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.190</Modified>
+      <Modified>2024-09-19T01:51:34.589</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.189</Modified>
+      <Modified>2024-09-19T01:51:34.585</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.187</Modified>
+      <Modified>2024-09-19T01:51:34.582</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.205</Modified>
+      <Modified>2024-09-19T01:51:34.609</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.202</Modified>
+      <Modified>2024-09-19T01:51:34.606</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.201</Modified>
+      <Modified>2024-09-19T01:51:34.604</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.199</Modified>
+      <Modified>2024-09-19T01:51:34.601</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.197</Modified>
+      <Modified>2024-09-19T01:51:34.599</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.212</Modified>
+      <Modified>2024-09-19T01:51:34.625</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.209</Modified>
+      <Modified>2024-09-19T01:51:34.620</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.208</Modified>
+      <Modified>2024-09-19T01:51:34.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.207</Modified>
+      <Modified>2024-09-19T01:51:34.615</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.206</Modified>
+      <Modified>2024-09-19T01:51:34.613</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.186</Modified>
+      <Modified>2024-09-19T01:51:34.578</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.185</Modified>
+      <Modified>2024-09-19T01:51:34.574</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.184</Modified>
+      <Modified>2024-09-19T01:51:34.571</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.182</Modified>
+      <Modified>2024-09-19T01:51:34.568</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.180</Modified>
+      <Modified>2024-09-19T01:51:34.565</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.261</Modified>
+      <Modified>2024-09-19T01:51:34.719</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.258</Modified>
+      <Modified>2024-09-19T01:51:34.717</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.255</Modified>
+      <Modified>2024-09-19T01:51:34.713</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.253</Modified>
+      <Modified>2024-09-19T01:51:34.709</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-09-03T23:26:46.250</Modified>
+      <Modified>2024-09-19T01:51:34.707</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\web.config">
       <PackagePath>web.config</PackagePath>
@@ -307,7 +307,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Tomorrow.deps.json">
       <PackagePath>Tomorrow.deps.json</PackagePath>
-      <Modified>2024-09-04T01:18:53.633</Modified>
+      <Modified>2024-09-19T04:31:17.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.34\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -316,6 +316,26 @@
     <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.34\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2024-07-08T09:23:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\bouncycastle.cryptography\2.3.1\lib\net6.0\BouncyCastle.Cryptography.dll">
+      <PackagePath>BouncyCastle.Cryptography.dll</PackagePath>
+      <Modified>2024-05-07T16:05:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\google.protobuf\3.26.1\lib\net5.0\Google.Protobuf.dll">
+      <PackagePath>Google.Protobuf.dll</PackagePath>
+      <Modified>2024-03-27T18:10:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\k4os.compression.lz4\1.3.8\lib\net6.0\K4os.Compression.LZ4.dll">
+      <PackagePath>K4os.Compression.LZ4.dll</PackagePath>
+      <Modified>2024-03-17T21:56:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\k4os.compression.lz4.streams\1.3.8\lib\net6.0\K4os.Compression.LZ4.Streams.dll">
+      <PackagePath>K4os.Compression.LZ4.Streams.dll</PackagePath>
+      <Modified>2024-03-17T21:56:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\k4os.hash.xxhash\1.0.8\lib\net6.0\K4os.Hash.xxHash.dll">
+      <PackagePath>K4os.Hash.xxHash.dll</PackagePath>
+      <Modified>2022-11-08T18:08:14.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\microsoft.aspnetcore.authorization\8.0.0\lib\net8.0\Microsoft.AspNetCore.Authorization.dll">
       <PackagePath>Microsoft.AspNetCore.Authorization.dll</PackagePath>
@@ -509,9 +529,45 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2024-06-07T17:05:26.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\mysql.data\9.0.0\lib\net8.0\MySql.Data.dll">
+      <PackagePath>MySql.Data.dll</PackagePath>
+      <Modified>2024-06-07T14:59:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\mysqlconnector\2.3.7\lib\net8.0\MySqlConnector.dll">
+      <PackagePath>MySqlConnector.dll</PackagePath>
+      <Modified>2024-04-22T07:29:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\system.configuration.configurationmanager\8.0.0\lib\net8.0\System.Configuration.ConfigurationManager.dll">
+      <PackagePath>System.Configuration.ConfigurationManager.dll</PackagePath>
+      <Modified>2023-10-31T14:59:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\system.diagnostics.eventlog\8.0.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll">
+      <PackagePath>System.Diagnostics.EventLog.Messages.dll</PackagePath>
+      <Modified>2023-10-31T14:59:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\system.diagnostics.eventlog\8.0.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll">
+      <PackagePath>System.Diagnostics.EventLog.dll</PackagePath>
+      <Modified>2023-10-31T14:59:54.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\system.io.pipelines\8.0.0\lib\net8.0\System.IO.Pipelines.dll">
       <PackagePath>System.IO.Pipelines.dll</PackagePath>
       <Modified>2023-10-31T14:59:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\system.security.cryptography.protecteddata\8.0.0\lib\net8.0\System.Security.Cryptography.ProtectedData.dll">
+      <PackagePath>System.Security.Cryptography.ProtectedData.dll</PackagePath>
+      <Modified>2023-10-31T14:59:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\system.security.permissions\8.0.0\lib\net8.0\System.Security.Permissions.dll">
+      <PackagePath>System.Security.Permissions.dll</PackagePath>
+      <Modified>2023-10-31T14:59:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\system.windows.extensions\8.0.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll">
+      <PackagePath>System.Windows.Extensions.dll</PackagePath>
+      <Modified>2023-10-31T14:59:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\zstdsharp.port\0.8.0\lib\net8.0\ZstdSharp.dll">
+      <PackagePath>ZstdSharp.dll</PackagePath>
+      <Modified>2024-04-24T18:36:24.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>
@@ -657,6 +713,26 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2024-06-07T06:05:24.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\mysql.data\9.0.0\runtimes\win-x64\native\comerr64.dll">
+      <PackagePath>comerr64.dll</PackagePath>
+      <Modified>2024-06-07T14:57:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\mysql.data\9.0.0\runtimes\win-x64\native\gssapi64.dll">
+      <PackagePath>gssapi64.dll</PackagePath>
+      <Modified>2024-06-07T14:57:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\mysql.data\9.0.0\runtimes\win-x64\native\k5sprt64.dll">
+      <PackagePath>k5sprt64.dll</PackagePath>
+      <Modified>2024-06-07T14:57:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\mysql.data\9.0.0\runtimes\win-x64\native\krb5_64.dll">
+      <PackagePath>krb5_64.dll</PackagePath>
+      <Modified>2024-06-07T14:57:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\mysql.data\9.0.0\runtimes\win-x64\native\krbcc64.dll">
+      <PackagePath>krbcc64.dll</PackagePath>
+      <Modified>2024-06-07T14:57:48.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\microsoft.maui.controls.compatibility\8.0.72\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
       <Modified>2024-08-05T20:52:12.000</Modified>
@@ -671,11 +747,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\Tomorrow.styles.css">
       <PackagePath>wwwroot\Tomorrow.styles.css</PackagePath>
-      <Modified>2024-09-03T23:26:37.791</Modified>
+      <Modified>2024-09-19T01:49:08.462</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\Tomorrow.bundle.scp.css">
       <PackagePath>wwwroot\Tomorrow.bundle.scp.css</PackagePath>
-      <Modified>2024-09-03T23:26:37.811</Modified>
+      <Modified>2024-09-19T01:49:08.496</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.NET_MAUI\MAUI\Tomorrow\Components\Layout\MainLayout.razor.css">
       <PackagePath>Components\Layout\MainLayout.razor.css</PackagePath>

@@ -8,6 +8,30 @@
         currentCount++;
     }
 
+    
+    private void AddTodo()
+    {
+        SqlHelper helper = new SqlHelper();
+        Dictionary<string, object> arrParamNames = new Dictionary<string, object>();
+        arrParamNames.Add("I_TODO_PARENT_SEQ", 0);
+        arrParamNames.Add("I_TODO_CONTENT", "스쿼트");
+        arrParamNames.Add("I_TODO_CATEGORY", "운동");
+        arrParamNames.Add("I_TODO_CATEGORY_DIV", "헬스");
+        arrParamNames.Add("I_TODO_CATEGORY_SEQ", "하체");
+        arrParamNames.Add("I_TODO_OWNER_ID", "KIMSANGKI");
+        arrParamNames.Add("I_TODO_COMPLETE_YN", "N");
+        arrParamNames.Add("I_TODO_USE_YN", "Y");
+        arrParamNames.Add("I_TODO_DEL_YN", "N");
+        arrParamNames.Add("I_TODO_WORK_YMD", "20240919");
+        arrParamNames.Add("I_TODO_WORK_HMS", "173010");
+        arrParamNames.Add("I_CREATE_ID", "KIMSANGKI");
+        arrParamNames.Add("I_UPDATE_ID", "KIMSANGKI");
+
+        int iresult = helper.ExecuteNonQuery("SP_TODO_C", arrParamNames);
+
+        
+    }
+
 }
 
 <h1>내일 할 일</h1>
@@ -15,7 +39,7 @@
 
 <p role="status">할 일 : <span id="taskCount">2</span> 개</p>
 
-<button class="btn btn-primary" @onclick="IncrementCount">추가</button>
+<button class="btn btn-primary" @onclick="AddTodo">추가</button>
 <ul>
     <li>
         출근하기

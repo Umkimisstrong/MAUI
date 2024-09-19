@@ -1,3 +1,4 @@
+D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\web.config
 D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Tomorrow.exe
 D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
 D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Tomorrow.deps.json
@@ -6,6 +7,11 @@ D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Tomorr
 D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Tomorrow.pdb
 D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
 D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\BouncyCastle.Cryptography.dll
+D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Protobuf.dll
+D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\K4os.Compression.LZ4.dll
+D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\K4os.Compression.LZ4.Streams.dll
+D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\K4os.Hash.xxHash.dll
 D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Authorization.dll
 D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.dll
 D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Forms.dll
@@ -54,7 +60,16 @@ D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Micros
 D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
 D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
 D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MySql.Data.dll
+D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MySqlConnector.dll
+D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Configuration.ConfigurationManager.dll
+D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Diagnostics.EventLog.Messages.dll
+D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Diagnostics.EventLog.dll
 D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.IO.Pipelines.dll
+D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.ProtectedData.dll
+D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Security.Permissions.dll
+D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Windows.Extensions.dll
+D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ZstdSharp.dll
 D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
 D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
 D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
@@ -91,6 +106,11 @@ D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Han
 D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
 D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
 D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\comerr64.dll
+D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\gssapi64.dll
+D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\k5sprt64.dll
+D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\krb5_64.dll
+D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\krbcc64.dll
 D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
 D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
 D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Tomorrow.csproj.AssemblyReference.cache
@@ -205,4 +225,3 @@ D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualif
 D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\.NET_MAUI\MAUI\Tomorrow\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
-D:\.NET_MAUI\MAUI\Tomorrow\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\web.config
