@@ -1,52 +1,71 @@
 ﻿@page "/counter"
+@using System.Data
 
 @code {
-    private int currentCount = 0;
 
-    private void IncrementCount()
+    public Counter()
     {
-        currentCount++;
+        GetTodoList();
     }
 
-    
+    private int currentCount = 0;
+
+    private DataTable TodoList = new DataTable();
+
+
     private void AddTodo()
     {
-        SqlHelper helper = new SqlHelper();
-        Dictionary<string, object> arrParamNames = new Dictionary<string, object>();
-        arrParamNames.Add("I_TODO_PARENT_SEQ", 0);
-        arrParamNames.Add("I_TODO_CONTENT", "스쿼트");
-        arrParamNames.Add("I_TODO_CATEGORY", "운동");
-        arrParamNames.Add("I_TODO_CATEGORY_DIV", "헬스");
-        arrParamNames.Add("I_TODO_CATEGORY_SEQ", "하체");
-        arrParamNames.Add("I_TODO_OWNER_ID", "KIMSANGKI");
-        arrParamNames.Add("I_TODO_COMPLETE_YN", "N");
-        arrParamNames.Add("I_TODO_USE_YN", "Y");
-        arrParamNames.Add("I_TODO_DEL_YN", "N");
-        arrParamNames.Add("I_TODO_WORK_YMD", "20240919");
-        arrParamNames.Add("I_TODO_WORK_HMS", "173010");
-        arrParamNames.Add("I_CREATE_ID", "KIMSANGKI");
-        arrParamNames.Add("I_UPDATE_ID", "KIMSANGKI");
+        TodoInterpreter todoItp = new TodoInterpreter();
 
-        int iresult = helper.ExecuteNonQuery("SP_TODO_C", arrParamNames);
 
-        
+        GetTodoList();
+    }
+
+    private void GetTodoList()
+    {
+        TodoInterpreter todoItp = new TodoInterpreter();
+        DataTable dt = todoItp.GetTodoList("KIMSANGKI");
+        if(dt.Rows.Count>0)
+        {
+            TodoList = dt;
+            currentCount = dt.Rows.Count;
+        }
     }
 
 }
 
+<div>
+
+
 <h1>내일 할 일</h1>
 
 
-<p role="status">할 일 : <span id="taskCount">2</span> 개</p>
+<p role="status">할 일 : <span id="taskCount">@currentCount</span> 개</p>
 
-<button class="btn btn-primary" @onclick="AddTodo">추가</button>
-<ul>
-    <li>
-        출근하기
-    </li>
-    <li>
-        식단하기
-    </li>
+<button class="btn btn-secondary" onclick="addTodo()">추가</button>
+<button class="btn btn-warning" onclick="removeTodo()">삭제</button>
+<button class="btn btn-primary" onclick="">저장</button>
+<ul name="ulTodoList">
+    @if (TodoList.Rows.Count > 0)
+    {
+
+        @foreach (DataRow item in TodoList.Rows)
+        {
+            <li>
+                <input type="checkbox" name="chkTodo" >
+                @item["TODO_CONTENT"].ToString()
+            </li>
+        }
+
+    }
+    else
+    {
+        
+    }
+
 </ul>
+
+</div>
+
 
 

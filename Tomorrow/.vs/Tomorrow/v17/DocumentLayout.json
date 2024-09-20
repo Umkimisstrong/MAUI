@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|d:\\.net_maui\\maui\\tomorrow\\db\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06F0DB97-B2CE-4321-B701-833FC2B22B6D}|Tomorrow.csproj|solutionrelative:db\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SqlHelper.cs",
-              "DocumentMoniker": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\DB\\SqlHelper.cs",
-              "RelativeDocumentMoniker": "DB\\SqlHelper.cs",
-              "ToolTip": "D:\\.NET_MAUI\\MAUI\\Tomorrow\\DB\\SqlHelper.cs",
-              "RelativeToolTip": "DB\\SqlHelper.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAIAxwEcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T04:11:15.149Z",
-              "EditorCaption": ""
             }
           ]
         }
